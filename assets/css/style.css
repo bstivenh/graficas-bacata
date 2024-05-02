@@ -248,35 +248,27 @@ body, span {
 /* Imgenes tarjetas servicios time line*/
 
 .img-transformacion-digital {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/services/consultoria.png") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/new/producto_1.jpg") center center no-repeat;
 }
 
 .img-app-moviles {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/services/marca.png") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/new/producto_2.jpg") center center no-repeat;
 }
 
 .img-desarrollo {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/services/infraestructura.gif") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/new/producto_3.jpg") center center no-repeat;
 }
 
 .img-paginas {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/services/pagina-web.gif") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/new/producto_4.jpg") center center no-repeat;
 }
 
 .img-app {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/services/apps.gif") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/new/producto_5.jpg") center center no-repeat;
 }
 
 .img-consultoria {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/services/desarrollo.gif") center center no-repeat;
-}
-
-.img-marketing {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/services/marketing.gif") center center no-repeat;
-}
-
-.img-soporte {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/services/soporte.gif") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../img/new/producto_6.jpg") center center no-repeat;
 }
 
 .timeline-item .timeline-img-header {
