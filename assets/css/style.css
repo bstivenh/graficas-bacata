@@ -206,6 +206,10 @@ body {
   font-weight: bold;
 }
 
+.bg-gradient-productos {
+    background: #58595b !important;
+}
+
 @media screen and (max-width: 768px) {
   .timeline::before {
       left: 50px;
