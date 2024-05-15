@@ -17326,7 +17326,7 @@ textarea[resize='horizontal']
 }
 .section-shaped .shape-style-1.shape-primary
 {
-    background: linear-gradient(150deg, #26D07C 15%, #00ABAD 70%, #2BAEE5 94%);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(56,109,231,1) 50%, rgba(33,38,45,1) 100%);
 }
 .section-shaped .shape-style-1.shape-halloween
 {
