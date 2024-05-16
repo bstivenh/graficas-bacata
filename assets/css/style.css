@@ -16,7 +16,15 @@
 {
   box-sizing: border-box;
 }
-
+.modal-header
+{
+  background-color: #025669; /* Color de fondo */
+  padding: 20px; /* Espacio interno */
+}
+.modal-body {
+  background-color: #98c3ed; /* Color de fondo */
+  padding: 20px; /* Espacio interno */
+}
 body {
   font-family: 'Souvenir';
   font-weight: normal;
@@ -210,6 +218,21 @@ body {
     background: #58595b !important;
 }
 
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* Proporción de 16:9 para el contenedor */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 80%;
+}
+
 @media screen and (max-width: 768px) {
   .timeline::before {
       left: 50px;
@@ -218,6 +241,14 @@ body {
   .timeline .timeline-img {
       left: 50px;
   }
+
+  
+    .container .video-container {
+      max-width: 100%;
+      width: auto;
+      margin-left: 60px;
+    }
+
 
   .timeline .timeline-content {
       max-width: 100%;
